@@ -1,1 +1,2 @@
-# PythonApplication1
+# PythonApplication
+neural simple perceptron
